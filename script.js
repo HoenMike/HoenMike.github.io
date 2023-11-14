@@ -1,2 +1,1 @@
-document.body.addEventListener('touchstart', function () {
-        });
+document.body.addEventListener("touchstart", function () {});
